@@ -2,7 +2,7 @@
 
 Raspberry pi kartının analog giriş pini olmadığı için analog bir değeri raspberry pi ile okumak için ads1115 gibi bir analog dijital converter kartına ihtiyaç vardır.
 
-Bu örnekte A0 pininden alınan bir analog değeri ads1115 kartı ile raspberry pi üzerinden javascript yardımıyla okuma yapacağız.
+Bu örnekte A0 pininden alınan bir analog değeri ads1115 kartı ile raspberry pi üzerinden JavaScript yardımıyla okuma yapacağız.
 
 Bağlantı;
 
