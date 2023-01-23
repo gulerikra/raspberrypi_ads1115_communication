@@ -7,6 +7,10 @@ i2c.openPromisified(1).then(async (bus) => {
  
   for (let i = 0; i < 1000; i++) {  // 1000 adet veri okur
     let value = await ads1115.measure('0+GND')  // A0 pininden veri okuma
+    // '0+GND' = A0 pinini okumak için
+    // '1+GND' = A1 pinini okumak için
+    // '2+GND' = A2 pinini okumak için
+    // '3+GND' = A3 pinini okumak için
     console.log(value*5.3/28274) // A0 pininden max 5.3V alabilir
   }
 })
