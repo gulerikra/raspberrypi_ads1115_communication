@@ -4,7 +4,7 @@ Raspberry pi kartının analog giriş pini olmadığı için analog bir değeri 
 
 Bu haberleşmede I2C haberleşme protokolü kullanılacaktır.
 
-Bu örnekte A0 pininden alınan bir analog değeri ads1115 kartı ile raspberry pi üzerinden JavaScript yardımıyla okuma yapacağız.
+Bu örnekte A0 pininden alınan bir analog değeri ads1115 kartı ile raspberry pi üzerinden JavaScript yardımıyla okuma yapılacaktır.
 
 Bağlantı;
 
