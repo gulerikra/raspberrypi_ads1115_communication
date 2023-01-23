@@ -18,3 +18,4 @@ SDA        →      GPIO2
 
 A0 pini güç kaynağından beslenebilir.
 
+![asddd](https://user-images.githubusercontent.com/62421679/214125110-6fc4ded4-0b49-4fbf-814a-ca8ca039736f.png)
